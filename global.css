@@ -76,7 +76,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 80px;
+    padding: 0 80px;
     background-color: #E3E6F3;
     box-shadow: 0 5px 15px rgb(0, 0, 0, 0.06);
     z-index: 1;
@@ -132,8 +132,7 @@ body {
 }
 
 .logo {
-    max-height: 75px;
-    /* max-width: 120px; */
+    max-height: 110px;
 }
 
 .cart-logo {
@@ -650,7 +649,7 @@ footer a:hover {
     }
 
     #header {
-        padding: 10px 30px;
+        padding: 0 30px;
     }
 
     h1 {
